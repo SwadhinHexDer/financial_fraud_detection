@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific exclusions
+data/
+saved_models/*.pkl
+saved_models/*.json
+.venv/
